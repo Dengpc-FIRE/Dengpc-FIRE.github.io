@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>hexo</title>
+        <title>Hexo</title>
         <link>https://Dengpc-FIRE.github.io</link>
-        <description>记录学习之旅</description>
-        <language></language>
+        <description></description>
+        <language>en</language>
         <pubDate>Sun, 27 Oct 2024 21:07:39 +0800</pubDate>
         <lastBuildDate>Sun, 27 Oct 2024 21:07:39 +0800</lastBuildDate>
         <item>

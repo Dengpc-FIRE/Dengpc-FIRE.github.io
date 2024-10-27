@@ -1,12 +1,19 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>log</title>
+        <title>滴滴答答</title>
         <link>https://Dengpc-FIRE.github.io</link>
-        <description>记录学习</description>
+        <description>passion</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 27 Oct 2024 21:07:39 +0800</pubDate>
-        <lastBuildDate>Sun, 27 Oct 2024 21:07:39 +0800</lastBuildDate>
+        <pubDate>Sun, 27 Oct 2024 23:42:35 +0800</pubDate>
+        <lastBuildDate>Sun, 27 Oct 2024 23:42:35 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/27/aa/</guid>
+            <title>aa</title>
+            <link>https://dengpc-fire.github.io/2024/10/27/aa/</link>
+            <pubDate>Sun, 27 Oct 2024 23:42:35 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/27/hello-world/</guid>
             <title>Hello World</title>

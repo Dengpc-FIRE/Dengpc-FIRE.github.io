@@ -1,9 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "log",
-    "description": "记录学习",
+    "title": "滴滴答答",
+    "description": "passion",
     "home_page_url": "https://Dengpc-FIRE.github.io",
     "items": [
+        {
+            "id": "https://dengpc-fire.github.io/2024/10/27/aa/",
+            "url": "https://dengpc-fire.github.io/2024/10/27/aa/",
+            "title": "aa",
+            "date_published": "2024-10-27T15:42:35.000Z",
+            "content_html": "",
+            "tags": []
+        },
         {
             "id": "https://dengpc-fire.github.io/2024/10/27/hello-world/",
             "url": "https://dengpc-fire.github.io/2024/10/27/hello-world/",

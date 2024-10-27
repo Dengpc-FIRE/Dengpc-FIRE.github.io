@@ -10,7 +10,10 @@
             "title": "aa",
             "date_published": "2024-10-27T15:42:35.000Z",
             "content_html": "",
-            "tags": []
+            "tags": [
+                "tag1",
+                "tag2"
+            ]
         },
         {
             "id": "https://dengpc-fire.github.io/2024/10/27/hello-world/",

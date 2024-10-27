@@ -2,17 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dengpc-FIRE.github.io</id>
     <title>滴滴答答</title>
+    <subtitle></subtitle>
+    <icon>https://dengpc-fire.github.io/assets/favicon.ico</icon>
     <link href="https://Dengpc-FIRE.github.io" />
+    <author>
+      <name>Dengpc</name>
+    </author>
     <updated>2024-10-27T15:42:35.000Z</updated>
-    <category term="tag1" />
-    <category term="tag2" />
     <entry>
         <id>https://dengpc-fire.github.io/2024/10/27/aa/</id>
         <title>aa</title>
         <link rel="alternate" href="https://dengpc-fire.github.io/2024/10/27/aa/"/>
         <content type="html"></content>
-        <category term="tag1" />
-        <category term="tag2" />
+        <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+        <category term="tag1" scheme="https://dengpc-fire.github.io/tags/tag1/" />
+        <category term="tag2" scheme="https://dengpc-fire.github.io/tags/tag2/" />
         <updated>2024-10-27T15:42:35.000Z</updated>
     </entry>
     <entry>

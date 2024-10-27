@@ -2,19 +2,23 @@
 <rss version="2.0">
     <channel>
         <title>滴滴答答</title>
+        <subtitle></subtitle>
+        <icon>https://dengpc-fire.github.io/assets/favicon.ico</icon>
         <link>https://Dengpc-FIRE.github.io</link>
+        <author>
+          <name>Dengpc</name>
+        </author>
         <description>passion</description>
         <language>zh-CN</language>
         <pubDate>Sun, 27 Oct 2024 23:42:35 +0800</pubDate>
         <lastBuildDate>Sun, 27 Oct 2024 23:42:35 +0800</lastBuildDate>
-        <category>tag1</category>
-        <category>tag2</category>
         <item>
             <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/27/aa/</guid>
             <title>aa</title>
             <link>https://dengpc-fire.github.io/2024/10/27/aa/</link>
-            <category>tag1</category>
-            <category>tag2</category>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="tag1" scheme="https://dengpc-fire.github.io/tags/tag1/" />
+            <category term="tag2" scheme="https://dengpc-fire.github.io/tags/tag2/" />
             <pubDate>Sun, 27 Oct 2024 23:42:35 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>

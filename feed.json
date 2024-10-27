@@ -1,6 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "滴滴答答",
+    "subtitle": "",
+    "icon": "https://dengpc-fire.github.io/assets/favicon.ico",
     "description": "passion",
     "home_page_url": "https://Dengpc-FIRE.github.io",
     "items": [
@@ -11,6 +13,7 @@
             "date_published": "2024-10-27T15:42:35.000Z",
             "content_html": "",
             "tags": [
+                "java",
                 "tag1",
                 "tag2"
             ]

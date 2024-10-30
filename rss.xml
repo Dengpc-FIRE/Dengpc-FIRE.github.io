@@ -10,8 +10,161 @@
         </author>
         <description>Keep on going never give up.</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 29 Oct 2024 21:09:11 +0800</pubDate>
-        <lastBuildDate>Tue, 29 Oct 2024 21:09:11 +0800</lastBuildDate>
+        <pubDate>Wed, 30 Oct 2024 21:46:22 +0800</pubDate>
+        <lastBuildDate>Wed, 30 Oct 2024 21:46:22 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/JDK8-17%E6%96%B0%E7%89%B9%E6%80%A7/</guid>
+            <title>JDK8-17新特性</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/JDK8-17%E6%96%B0%E7%89%B9%E6%80%A7/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:46:22 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6/</guid>
+            <title>反射机制</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:44:58 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid>
+            <title>网络编程</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:44:49 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/File%E7%B1%BB%E4%B8%8EIO%E6%B5%81/</guid>
+            <title>File类与IO流</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/File%E7%B1%BB%E4%B8%8EIO%E6%B5%81/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:44:41 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E9%9B%86%E5%90%88%E6%BA%90%E7%A0%81/</guid>
+            <title>数据结构与集合源码</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E9%9B%86%E5%90%88%E6%BA%90%E7%A0%81/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:44:30 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E6%B3%9B%E5%9E%8B/</guid>
+            <title>泛型</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E6%B3%9B%E5%9E%8B/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:44:08 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/</guid>
+            <title>集合框架</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:43:59 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E5%B8%B8%E7%94%A8%E7%B1%BB%E5%92%8C%E5%9F%BA%E7%A1%80API/</guid>
+            <title>常用类和基础API</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E5%B8%B8%E7%94%A8%E7%B1%BB%E5%92%8C%E5%9F%BA%E7%A1%80API/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:43:47 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+            <title>多线程</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:43:34 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</guid>
+            <title>异常处理</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:43:25 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-3/</guid>
+            <title>面向对象编程-3</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-3/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:43:03 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-2/</guid>
+            <title>面向对象编程-2</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-2/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:42:51 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-1/</guid>
+            <title>面向对象编程-1</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-1/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:42:37 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E6%95%B0%E7%BB%84/</guid>
+            <title>数组</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E6%95%B0%E7%BB%84/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:42:04 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/IDEA%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+            <title>IDEA的安装与使用</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/IDEA%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:41:56 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</guid>
+            <title>流程控制语句</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:41:39 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/30/java/%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%90%E7%AE%97%E6%B3%95/</guid>
+            <title>变量与运算法</title>
+            <link>https://dengpc-fire.github.io/2024/10/30/java/%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%90%E7%AE%97%E6%B3%95/</link>
+            <category term="java" scheme="https://dengpc-fire.github.io/categories/java/" />
+            <category term="java" scheme="https://dengpc-fire.github.io/tags/java/" />
+            <pubDate>Wed, 30 Oct 2024 21:41:02 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://dengpc-fire.github.io/2024/10/29/Deeplearning/detection/paper-LUD-YOLO/</guid>
             <title>paper-LUD-YOLO</title>

@@ -17,10 +17,36 @@
             <title>springboot</title>
             <link>https://dengpc-fire.github.io/2024/11/03/springboot/</link>
             <pubDate>Sun, 03 Nov 2024 19:01:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;src&amp;#x2F;main&amp;#x2F;java&lt;br&gt;└── com&amp;#x2F;example&amp;#x2F;demo&lt;br&gt;├── controller        # 控制器模块&lt;br&gt;│   └── UserController.java&lt;br&gt;├── service           # 业务逻辑模块&lt;br&gt;│   └── UserService.java&lt;br&gt;├── repository        # 数据访问模块&lt;br&gt;│   └── UserRepository.java&lt;br&gt;├── model             # 实体类模块&lt;br&gt;│   └── User.java&lt;br&gt;├── dto               # 数据传输对象模块&lt;br&gt;│   └── UserDTO.java&lt;br&gt;├── exception         # 异常处理模块&lt;br&gt;│   └── GlobalExceptionHandler.java&lt;br&gt;├── config            # 配置模块&lt;br&gt;│   └── AppConfig.java&lt;br&gt;├── util              # 工具类模块&lt;br&gt;│   └── DateUtils.java&lt;br&gt;└── DemoApplication.java  # Spring Boot 启动类&lt;/p&gt;
-&lt;p&gt;src&amp;#x2F;main&amp;#x2F;resources&lt;br&gt;└── application.yml  # 配置文件&lt;/p&gt;
-&lt;p&gt;src&amp;#x2F;test&amp;#x2F;java&lt;br&gt;└── com&amp;#x2F;example&amp;#x2F;demo&lt;br&gt;├── controller        # 控制器测试模块&lt;br&gt;├── service           # 业务逻辑测试模块&lt;br&gt;└── repository        # 数据访问测试模块&lt;/p&gt;
-&lt;h3 id=&#34;1-DemoApplication&#34;&gt;&lt;a href=&#34;#1-DemoApplication&#34; class=&#34;headerlink&#34; title=&#34;1.DemoApplication&#34;&gt;&lt;/a&gt;1.DemoApplication&lt;/h3&gt;&lt;p&gt;DemoApplication.java 是 Spring Boot 应用程序的入口点。它包含 main 方法，负责启动 Spring Boot 应用，加载所有必要的配置和组件。&lt;/p&gt;
+            <description><![CDATA[ &lt;pre&gt;&lt;code&gt;src/main/java
+└── com/example/demo
+├── controller        # 控制器模块
+│   └── UserController.java
+├── service           # 业务逻辑模块
+│   └── UserService.java
+├── repository        # 数据访问模块
+│   └── UserRepository.java
+├── model             # 实体类模块
+│   └── User.java
+├── dto               # 数据传输对象模块
+│   └── UserDTO.java
+├── exception         # 异常处理模块
+│   └── GlobalExceptionHandler.java
+├── config            # 配置模块
+│   └── AppConfig.java
+├── util              # 工具类模块
+│   └── DateUtils.java
+└── DemoApplication.java  # Spring Boot 启动类
+
+src/main/resources
+└── application.yml  # 配置文件
+
+src/test/java
+└── com/example/demo
+├── controller        # 控制器测试模块
+├── service           # 业务逻辑测试模块
+└── repository        # 数据访问测试模块
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;1-DemoApplication-启动类&#34;&gt;&lt;a href=&#34;#1-DemoApplication-启动类&#34; class=&#34;headerlink&#34; title=&#34;1.DemoApplication - 启动类&#34;&gt;&lt;/a&gt;1.DemoApplication - 启动类&lt;/h3&gt;&lt;p&gt;DemoApplication.java 是 Spring Boot 应用程序的入口点。它包含 main 方法，负责启动 Spring Boot 应用，加载所有必要的配置和组件。&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;javascript&#34;&gt;package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
